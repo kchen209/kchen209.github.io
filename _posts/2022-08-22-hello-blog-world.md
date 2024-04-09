@@ -1,37 +1,22 @@
 ---
-title: The Hello World of Blogs
+title: Homework 8
 tags: [Technology, Blogging]
 style: fill
 color: secondary
-description: This is a blog post to get you started.
+description: IS445 homework8 submission
 ---
 
 Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
 
-This is me writing an intro to this blog post.  So introlicioius.
+## Write-up 1  
+For the first plot that I have chosen to create and visualize, I wanted to create a bar graph and show the relationship between the representative district and the number of buildings in that district. For the code, there is a plot of x and y axis clearly shown to what I wanted it to show and the bar graph is easy to read for anyone who is interested in seeing the number of buildings in that specific district. For the color maps, there are different colors to represent each of the different district and the bars are distinct from each other so that people can know. I think that this is what is easily to be read and that is what would help make a good visualization too. For the data transformation, I wanted to count the number of buildings in the representative district so that it can show in the visualization too. This was necessary to do because the point of the plot that I wanted to show in this first plot was the relationship between the representative districts and the number of buildings in each of the districts. Other transformations, such as pivot was not used because I didn't think it would be necesscary to change any of the variables or shift them. In my Homework 7, I said "If I had more time, I would change the scales even more and even choose different variables in the dataset to look at. I want to make a visualization where it would be helpful for readers looking at this specific visualization to see that there is meaning behind it and it can be used to predict or see correlations in future homes and buildings that are being built." I think that the scales in this plot is a lot better and it was easier to read too since the interactivity was also able to help with the scaling overall.
 
-## 1. Here is one thing I want to say
 
-This is maybe an important thing, and, at the very least it is first.
+<vegachart schema-url="{{ site.baseurl }}/assets/json/viz1.json" style="width: 100%"></vegachart>
 
-## 2. Another thing
+## Write-up 2  
+For the second plot that I have chosen to create and visualize, I wanted to create a scatterplot and show the relationship between the year constructed and the total number of floors a building has. For the code, there is a plot of the x and y axis clearly labled and we take the information from the dataset of the total number of floors a building has and also the year constructed. There are different colors for each of the points on the scatterplot to show each of the buildings and the number of floors that it has. This way, it would be easy to read and we can see what we need to know. For the transformations, we would aggregate using count since I wanted to count how many floors each of the buildings has and it is shown in the y-axis. I did not use any other of the transformations because I don't think it would be necessary for what I wanted the plot to show. In homework 7, I also used a scatterplot to show relationships of what I wanted to show in the plot since I know that it would be easy to read and this information overlaps.
 
-I am now talking about a second thing, probably also good.
 
-## 3. A third thing
+<vegachart schema-url="{{ site.baseurl }}/assets/json/viz2.json" style="width: 100%"></vegachart>
 
-We are now getting into the weeds of things that I am saying.  It is probably unlikely someone has made it thus far.
-
-## 4. Thing #4.
-
-At this point, you are probably no longer into me listing off things.  Let's put in an image to placate the reader:
-
-![corg](https://media.istockphoto.com/photos/welsh-corgi-picture-id962032196?k=20&m=962032196&s=170667a&w=0&h=NhIyQdJgVw0cw_EeLtP3LcLExLuiAWPwzL6_WsRKUfQ=)
-
-## 5. The last thing
-
-This is my final thing, probably would be great if this was a TL;DR or summary.  But I don't have that for you.  I have given you so little already, why start saying anything useful now?
-
-Besides, all anybody wants is the DERP:
-
-![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg)
